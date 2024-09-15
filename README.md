@@ -1,8 +1,8 @@
 # test
 
 
-<center>
+<p align="center">
     <img src="./img/haha.png">
     </br>
     nmsl
-</center>
+<p>
